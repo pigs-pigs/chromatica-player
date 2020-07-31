@@ -5,8 +5,7 @@ $(document).ready(function () {
 			artist: "Lady Gaga",
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
-			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+			audioFile: "mp3/2-alice.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -15,7 +14,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://raw.githubusercontent.com/pigs-pigs/chromatica-player/master/mp3/3-stup.mp3?token=APG3QMUCWGV3HBKQ7IA6UKK7ER5LU",
+				"mp3/3-stup.mp3",
 			color: "#25323b"
 		},
 		{
