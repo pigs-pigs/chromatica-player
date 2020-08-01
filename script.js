@@ -23,7 +23,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://raw.githubusercontent.com/pigs-pigs/chromatica-player/master/mp3/4-rain.mp3?token=APG3QMUKCJXAT7ZAESAOEJS7ESHXK",
+				"mp3/4-rain.mp3",
 			color: "#c1c1c1"
 		},
 		{
