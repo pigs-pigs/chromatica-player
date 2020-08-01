@@ -248,7 +248,11 @@ $(".app-icon").click(function () {
 
 // Bluetooth
 $("#bluetooth-btn").click(function () {
-	$("#bluetooth-devices").addClass("active");
+  if ($("#bluetooth-btn").hasClass("active")) {
+    $("#bluetooth-btn").removeClass("active");
+  } else {
+    $("#bluetooth-btn").addClass("active");
+  }
 });
 
 $("#sub-controls i").click(function () {
