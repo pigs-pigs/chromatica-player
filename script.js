@@ -12,7 +12,7 @@ $(document).ready(function () {
       title: "Stupid Love",
       artist: "Lady Gaga",
       cover:
-        "https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lady_Gaga_-_Stupid_Love.png/220px-Lady_Gaga_-_Stupid_Love.png",
       audioFile: "mp3/3-stup.mp3",
       color: "#622569"
     },
@@ -20,7 +20,7 @@ $(document).ready(function () {
       title: "Rain On Me",
       artist: "Lady Gaga, Arianna Grande",
       cover:
-        "https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
+        "https://www.udiscovermusic.com/wp-content/uploads/2020/06/Lady-Gaga-and-Ariana-Grande-Rain-On-Me.jpg",
       audioFile: "mp3/4-rain.mp3",
       color: "#92a8d1"
     },
