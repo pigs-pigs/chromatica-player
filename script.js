@@ -20,7 +20,7 @@ $(document).ready(function () {
       title: "Rain On Me",
       artist: "Lady Gaga, Arianna Grande",
       cover:
-        "https://www.udiscovermusic.com/wp-content/uploads/2020/06/Lady-Gaga-and-Ariana-Grande-Rain-On-Me.jpg",
+        "http://subrica.com/wp-content/uploads/2020/05/Lady-Gaga-Ariana-Grande-Rain-On-Me-cover.jpg",
       audioFile: "mp3/4-rain.mp3",
       color: "#92a8d1"
     },
@@ -28,7 +28,7 @@ $(document).ready(function () {
       title: "Free Woman",
       artist: "Lady Gaga",
       cover:
-        "https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
+        "https://s31242.pcdn.co/wp-content/uploads/2020/05/ffee_woman-scaled.jpg",
       audioFile: "mp3/5-free.mp3",
       color: "#f7cac9"
     },
@@ -68,7 +68,7 @@ $(document).ready(function () {
       title: "Sour Candy",
       artist: "Lady Gaga, BLACKPINK",
       cover:
-        "https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
+        "https://i.redd.it/aogvmk7fccx41.jpg",
       audioFile: "mp3/10-sour.mp3",
       color: "#ffef96"
     },
