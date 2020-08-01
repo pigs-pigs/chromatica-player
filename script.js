@@ -32,7 +32,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Post%20Malone%20-%20I%20Fall%20Apart.mp3",
+				"mp3/5-free.mp3",
 			color: "#cd4829"
 		},
 		{
@@ -41,7 +41,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/VAX%20-%20Fireproof%20Feat%20Teddy%20Sky.mp3",
+				"mp3/6-fun.mp3",
 			color: "#5d0126"
 		},
 		{
@@ -50,7 +50,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/7-chr2.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -59,7 +59,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/8-911.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -68,7 +68,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/9-plastic.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -77,7 +77,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/10-sour.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -86,7 +86,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/11-enig.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -95,7 +95,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/12-replay.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -104,7 +104,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/13-chr3.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -113,7 +113,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/14-sine.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -122,7 +122,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/15-doves.mp3",
 			color: "#c3af50"
 		},
 		{
@@ -131,7 +131,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
-				"https://rawcdn.githack.com/pigs-pigs/chromatica-player/master/mp3/2-alice.mp3?token=APG3QMVJMUGBD7OOF4PSBN27ER7MS",
+				"mp3/16-babylon.mp3",
 			color: "#c3af50"
 		}
 	];
