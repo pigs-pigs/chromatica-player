@@ -247,13 +247,27 @@ $(".app-icon").click(function () {
 });
 
 // Bluetooth
+function darkMode(){
+  $("#iphone").addClass("dark-mode")
+  $("#camera span").addClass("dark-mode")
+  $("div#screen").addClass("dark-mode")
+}
+
+function lightMode(){
+  $("#iphone").removeClass("dark-mode")
+  $("#camera span").removeClass("dark-mode")
+  $("#iphone").removeClass("dark-mode")
+}
 $("#bluetooth-btn").click(function () {
   if ($("#bluetooth-btn").hasClass("active")) {
     $("#bluetooth-btn").removeClass("active");
+    lightMode();
   } else {
     $("#bluetooth-btn").addClass("active");
+    darkMode();
   }
 });
+
 
 $("#sub-controls i").click(function () {
 	if (!$(this).hasClass("fa-bluetooth-b")) {
