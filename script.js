@@ -6,7 +6,7 @@ $(document).ready(function () {
 			cover:
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile: "mp3/2-alice.mp3",
-			color: "#c3af50"
+			color: "#034f84"
 		},
 		{
 			title: "Stupid Love",
@@ -15,7 +15,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/3-stup.mp3",
-			color: "#25323b"
+			color: "#c94c4c"
 		},
 		{
 			title: "Rain On Me",
@@ -24,7 +24,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/4-rain.mp3",
-			color: "#c1c1c1"
+			color: "#92a8d1"
 		},
 		{
 			title: "Free Woman",
@@ -33,7 +33,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/5-free.mp3",
-			color: "#cd4829"
+			color: "#f7cac9"
 		},
 		{
 			title: "Fun Tonight",
@@ -69,7 +69,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/9-plastic.mp3",
-			color: "#c3af50"
+			color: "#b1cbbb"
 		},
 		{
 			title: "Sour Candy",
@@ -78,7 +78,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/10-sour.mp3",
-			color: "#25323b"
+			color: "#ffef96"
 		},
 		{
 			title: "Enigma",
@@ -87,7 +87,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/11-enig.mp3",
-			color: "#c3af50"
+			color: "#ff7b25"
 		},
 		{
 			title: "Replay",
@@ -96,7 +96,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/12-replay.mp3",
-			color: "#c3af50"
+			color: "#6b5b95"
 		},
 		{
 			title: "Chromatica III",
@@ -105,7 +105,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/13-chr3.mp3",
-			color: "#c3af50"
+			color: "#d64161"
 		},
 		{
 			title: "Sine From Above",
@@ -114,7 +114,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/14-sine.mp3",
-			color: "#25323b"
+			color: "#f4e1d2"
 		},
 		{
 			title: "1000 Doves",
@@ -123,7 +123,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/15-doves.mp3",
-			color: "#c3af50"
+			color: "#fefbd8"
 		},
 		{
 			title: "Babylon",
@@ -132,7 +132,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/16-babylon.mp3",
-			color: "#25323b"
+			color: "#7e4a35"
 		}
 	];
 
