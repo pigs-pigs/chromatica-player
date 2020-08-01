@@ -78,7 +78,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/10-sour.mp3",
-			color: "#c3af50"
+			color: "#25323b"
 		},
 		{
 			title: "Enigma",
@@ -114,7 +114,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/14-sine.mp3",
-			color: "#c3af50"
+			color: "#25323b"
 		},
 		{
 			title: "1000 Doves",
@@ -132,7 +132,7 @@ $(document).ready(function () {
 				"https://celebmix.com/wp-content/uploads/2020/04/EUwFIvEX0AkfTpV.jpeg",
 			audioFile:
 				"mp3/16-babylon.mp3",
-			color: "#c3af50"
+			color: "#25323b"
 		}
 	];
 
