@@ -39,11 +39,11 @@ body {
   font-family: "proxima-nova", "Lato", "Source Sans Pro", "Raleway", Arial,
     sans-serif;
 
-  -webkit-transition: background 0.25s ease;
-  -moz-transition: background 0.25s ease;
-  -ms-transition: background 0.25s ease;
-  -o-transition: background 0.25s ease;
-  transition: background 0.25s ease;
+  -webkit-transition: background 0.45s ease;
+  -moz-transition: background 0.45s ease;
+  -ms-transition: background 0.45s ease;
+  -o-transition: background 0.45s ease;
+  transition: background 0.45s ease;
 }
 
 /* Float: left/right */
@@ -200,6 +200,33 @@ div#iphone div#home-btn {
   margin: 10px auto 5px;
   width: 35px;
 }
+
+
+div#iphone.dark-mode {
+  background: #262626;
+  border: 4px solid #a6a6a6;
+}
+
+div#iphone div#camera span.dark-mode {
+  background: #a6a6a6;
+}
+
+div#iphone div#screen.dark-mode {
+  border: 2px solid #a6a6a6;
+}
+
+
+div#iphone.dark-mode {
+  background: #262626;
+  border: 4px solid #a6a6a6;
+}
+div#iphone div#camera span.dark-mode {
+  background: #a6a6a6;
+}
+div#iphone div#screen.dark-mode {
+  border: 2px solid #a6a6a6;
+}
+
 
 div#content-wrap {
   background: #333;
